@@ -1,0 +1,7 @@
+{
+  "name": "DOERS 웹사이트",
+  "description": "고급 호텔, 오피스, 매장을 위한 프리미엄 크리스마스 트리 설치 및 대여 전문 서비스",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
